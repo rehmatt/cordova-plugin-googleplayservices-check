@@ -1,4 +1,4 @@
-package org.apache.cordova.google-play-services.check;
+package cordova.plugin.googleplayservices.check;
 
 import org.apache.cordova.*;
 

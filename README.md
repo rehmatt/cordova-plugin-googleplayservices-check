@@ -6,7 +6,7 @@ Simple cordova plugin for checking that the google play services are installed, 
 
 In your cordova project folder:
 
-    $ cordova plugin add https://github.com/rehmatt/cordova.google-play-services.check.git
+    $ cordova plugin add https://github.com/rehmatt/cordova-plugin-googleplayservices-check.git
 
 
 Then the variable 'GooglePlayServicesCheck' will be available after `deviceready` fires.
